@@ -2,7 +2,9 @@ https://www.google.com/search?q=golang+llvm+bytecode
 
 idea: https://youtu.be/iXCVaQzXi5w?t=341
 
-https://github.com/oracle/graal/issues/381
+Issue: https://github.com/oracle/graal/issues/381
+
+Sch: https://www.google.com/search?q=GraalVM+golang+llvm
 
 # Discuss:
 ``eginez commented on Oct 25, 2018 • 
